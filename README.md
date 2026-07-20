@@ -8,6 +8,8 @@
 </p>
 
 <p align="center">
+  🎓 S.Kom (Computer Science)
+  💼 Ex-Intern at Tribun — built an internal IT Help Desk system used by employees
   🌱 Currently open to <b>Fullstack / Backend Developer</b> internship & full-time opportunities<br/>
   💬 Ask me about Laravel, React, or REST API design<br/>
   📫 Reach me at <a href="mailto:smahendraloka@gmail.com">smahendraloka@gmail.com</a>
