@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Satria 👋</h1>
+<h1 align="center">Hi, I'm Satria Duta Mahendraloka</h1>
 <h3 align="center">Fullstack Web Developer | Laravel & React</h3>
 
 <p align="center">
