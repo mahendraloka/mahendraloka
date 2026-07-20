@@ -58,4 +58,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendraloka&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center"><i>Thanks for stopping by! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by!</i></p>
